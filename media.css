@@ -1,0 +1,456 @@
+@media(min-width: 1376px){
+    #logo h3{
+        font-size: 2rem;
+    }
+    #menu h3{
+        font-size: 1.7rem;
+    }
+    .head h1{
+        font-size: 12rem;
+    }
+    #head1 h6{
+        font-size: 1.2rem;
+    }
+    #mini-head h5{
+        font-size: 1.2rem;
+    }
+    #main-para h2{
+        font-size: 3.3rem;
+    }
+    #inner-div3 h5{
+        font-size: 1.2rem
+    }
+    #page3 video{
+        height: 600px;
+    }
+    #foot-div h3{
+        font-size: 2.5rem;
+    }
+    #foot-para h4{
+        font-size: 1.3rem;
+    }
+    #last-div h5{
+        font-size: 1rem;
+    }
+    #page2{
+        margin-top: -100px;
+    }
+    nav{
+        padding: 2.5rem 2rem;
+    }
+    #pg-mid{
+        padding: 0rem 2rem;
+    }
+    #page2{
+        padding: 18rem 2rem;
+    }
+    #page3{
+        padding: 6rem 2rem;
+    }
+    #inner-div3 h5{
+        font-size: 1.3rem;
+    }
+    #center h1{
+        font-size: 18rem;
+    }
+    #foot-div h3{
+        font-size: 2.5rem;
+    }
+    #foot-div div{
+        width: 50px;
+    }
+    #foot-para h4{
+        font-size: 1.3rem;
+    }
+    #last-div h5{
+        font-size: 1rem;
+    }
+    #page3{
+        margin-top: -200px;
+    }
+
+    /* loading animation  */
+    #load{
+        margin: 0px auto;
+        max-width: 1376px;
+    }
+    .images{
+        height: 25vw;
+    }
+    #box1{
+        max-width: 1376px;
+    }
+    #box2{
+        max-width: 1376px;
+    }
+    /* Animation end */
+    #menu-list{
+        max-width: 1380px;        
+    }
+    #list-mid div h3{
+        font-size: 1.8rem;
+    }
+    #list-mid div h1{
+        font-size: 4.5rem;
+    }
+
+}
+
+
+@media(max-width: 1375px){
+    #list-logo h3{
+        font-size: 2.5vw;
+    }
+    #list-logo div{
+        width:3vw;
+    }
+    #list-mid div h3{
+        font-size: 2.5vw;
+    }
+    #list-foot h4{
+        font-size: 1.3vw;
+    }
+    #close h3{
+        font-size: 2.3vw;
+    }
+    #list-mid div h3{
+        font-size: 2.2vw;
+    }
+    #list-mid div h1{
+        font-size: 5.5vw;
+    }
+    #logo {
+        gap: 10px;
+    }
+    #logo h3{
+        font-size: 2.5vw;
+    }
+    #logo div{
+        width: 3vw;
+    }
+    #menu h3{
+        font-size: 2.2vw;
+    }
+    .head h1{
+        font-size: 14.5vw;
+    }
+    #head1 h6{
+        font-size: 1.3vw;
+    }
+    #mini-head h5{
+        font-size: 1.7vw;
+    }
+    #main-para{
+        margin-top: 6vw;
+    }
+    #page3{
+        margin-top: -120px;
+    }
+    #main-para h2{
+        font-size: 4vw;
+        width: 85%;
+    }
+    #inner-div3 h5{
+        font-size: 1.7vw;
+    }
+    #video-div video{
+        height: 550px !important;
+        
+    }
+    #foot-div h3{
+        font-size: 3vw;
+    }
+    #foot-div{
+        gap: 10px;
+    }
+    #foot-div div{
+        width: 2.7rem;
+    }
+    #last-div h5{
+        font-size: 1.4vw;
+    }
+    #foot-para{
+        width: 30vw;
+    }
+    #foot-para h4{
+        font-size: 1.8vw;
+    }
+}
+@media(max-width: 929px){
+    /* menu */
+    #list-logo h3{
+        font-size: 3vw;
+    }
+    #list-logo div{
+        width: 5vw;
+    }
+    #close h3{
+        font-size: 2.9vw;
+    }
+    #list-mid div h3{
+        font-size: 3.3vw;
+    }
+    #list-mid div h1{
+        font-size: 7vw;
+    }
+    #list-foot h4{
+        font-size: 2vw;
+    }
+    /* menu end */
+    #logo h3{
+        font-size: 3vw;
+    }
+    #logo div{
+        width: 4vw;
+    }
+    #logo{
+        gap: 10px;
+    }
+    #menu h3{
+        font-size: 2.6vw;
+    }
+    #head1{
+        gap: 40px;
+    }
+     .head h1{
+        font-size: 16vw;
+     }
+    #head1 h6{
+        font-size: 1.3vw;
+    }
+    #mini-head h5{
+        font-size: 2.1vw;
+    }
+    #main-para h2{
+        font-size: 5vw;
+    }
+
+    #inner-div3 h5{
+        font-size: 2.1vw;
+    }
+    #video-div video{
+        width: 60%;
+        height: auto;
+    }
+    #foot-div h3{
+        font-size: 3.7vw;
+    }
+    #foot-div div{
+        width: 5vw;
+    }
+    #last-div h5{
+        font-size: 2.5vw;
+    }
+    #foot-para h4{
+        font-size: 2.2vw;
+        line-height: 1.3;
+    }
+    #last-div h5{
+        font-size: 1.8vw;
+    }
+}
+@media(max-width: 872px){
+    #top h1{
+        font-size: 170px;
+        bottom: -100px;
+    }
+    #bottom h1{
+        font-size: 170px;
+        top: -106px;
+    }
+}
+@media(max-width: 800px){
+    #list-logo h3{
+        font-size: 5.5vw;
+    }
+    #list-logo div{
+        width:5vw;
+    }
+    #list-mid div h3{
+        font-size: 3.2vw;
+    }
+    #list-mid div h1{
+        font-size: 10vw;
+    }
+    #list-foot h4{
+        font-size: 2.6vw;
+    }
+    #close h3{
+        font-size: 3.9vw;
+    }
+    .images{
+        height: 50vw;
+    }
+}
+@media(max-width: 672px){
+    #top h1{
+        font-size: 120px;
+        bottom: -75px;
+    }
+    #bottom h1{
+        font-size: 120px;
+        top: -70px;
+    }
+}
+@media(max-width: 600px){
+    /* menu */
+    #list-logo h3{
+        font-size: 4vw;
+    }
+    #list-logo div{
+        width: 6vw;
+    }
+    #close h3{
+        font-size: 3.7vw;
+    }
+    #list-mid div h3{
+        font-size: 4.2vw;
+    }
+    #list-mid div h1{
+        font-size: 9vw;
+    }
+    #list-foot h4{
+        font-size: 2.7vw;
+    }
+    /* menu end */
+    #mini-circle{
+        display: none;
+    }
+    #logo{
+        gap: 8px;
+    }
+
+    #page1{
+        height: 90vh;
+    }
+    #menu h3{
+        font-size: 6vw;
+    }
+    #logo h3{
+        font-size: 6.5vw;
+    }
+    #logo div{
+        width: 8vw;
+    }
+    .head h1{
+        font-size: 22vw;
+    }
+    #head1{
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: flex-start;
+        gap: 20px;
+    }
+    #head1 h6{
+        align-self: center;
+        font-size: 2.6vw;
+    }
+    #mini-head{
+        gap: 10px;
+    }
+    #mini-head h5{
+        font-size: 2.8vw;
+    }
+    #main-para h2{
+        font-size: 6.3vw;
+        width: 90%;
+    }
+    #inner-div3 h5{
+        font-size: 2.8vw;
+    }
+    #page2{
+        min-height: 70vh;
+    }
+    #main-para {
+        margin-top: 12vw;
+    }
+    #page3{
+        min-height: 75vh;
+        margin-top: 1px
+    }
+    #video-div{
+        width: 95%; 
+        margin: 0px auto ;
+    }
+    #video-div video{
+        width: 100%;
+        height: auto;
+    }
+    #last-div h5{
+        font-size: 3.5vw;
+    }
+    #foot-div{
+        gap: 8px;
+    }
+    #foot-div  h3{
+        font-size: 6.5vw;
+    }
+    #foot-div div{
+        width: 8vw;
+    }
+    #foot-para{
+        width: 60%;
+    }
+    #foot-para h4{
+        font-size: 3.5vw;
+    }
+    #last-div h5{
+        font-size: 2.8vw;
+    }
+}
+@media(max-width: 500px){
+    #list-logo h3{
+        font-size: 7vw;
+    }
+    #list-logo div{
+        width: 6vw;
+    }
+    #list-mid div h3{
+        font-size: 4.5vw;
+    }
+    #list-mid div h1{
+        font-size: 15vw;
+    }
+    #list-foot h4{
+        font-size: 3.7vw;
+    }
+    #close h3{
+        font-size: 5vw;
+    }
+    .images{
+        height: 65vw;
+    }
+}
+@media(max-width: 477px){
+    #top h1{
+        font-size: 85px;
+        bottom: -55px;
+    }
+    #bottom h1{
+        font-size: 85px;
+        top: -48px;
+    }
+}
+@media(max-width: 338px){
+    #top h1{
+        font-size: 60px;
+        bottom: -35px;
+    }
+    #bottom h1{
+        font-size: 60px;
+        top: -36px;
+    }
+    .images{
+        height: 70vw;
+    }
+}
+@media(max-width: 238px){
+    #top h1{
+        font-size: 30px;
+        bottom: -17px;
+    }
+    #bottom h1{
+        font-size: 30px;
+        top: -19px;
+    }
+}
