@@ -36,7 +36,7 @@
         margin-top: -100px;
     }
     nav{
-        padding: 2.5rem 2rem;
+        padding: 1rem 2.5rem;
     }
     #pg-mid{
         padding: 0rem 2rem;
@@ -99,7 +99,7 @@
 
 @media(max-width: 1375px){
     #list-logo h3{
-        font-size: 2.5vw;
+        font-size: 2.5vw
     }
     #list-logo div{
         width:3vw;

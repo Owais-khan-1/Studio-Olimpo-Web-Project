@@ -21,11 +21,15 @@ lennis();
 
 function moveCircle() {
   let circle = document.querySelector("#mini-circle");
+
+  gsap.set(circle, { xPercent: -50, yPercent: -50 });
+
   window.addEventListener("mousemove", function(dets) {
     gsap.to(circle, {
-      x: dets.clientX - 70,
-      y: dets.clientY - 8,
-      duration: 0.4
+      x: dets.clientX ,
+      y: dets.clientY ,
+      duration: 0.4,
+      ease: "power3.out",
     });
   });
 }
